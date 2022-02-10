@@ -1,8 +1,11 @@
 # Konami Code
 In this exercise, we're going to recreate a classic from gaming. Here, the [Konami code](https://en.wikipedia.org/wiki/Konami_Code) is a sequence of keys that once correctly pressed, will give the user some unexpected feedback
 
+## Learning Objectives
+- Use `addEventListener` and key events to capture input from the user
+
 ## Instructions
-- Create a section after the logo with the code sequence inside as a reference for the User, You can come up with the style for it
+- Create a section after the logo with the code sequence inside as a reference for the User, You can come up with the style for it or just add simple text labels.
 - Listen for keyboard inputs, and keep track if the user is pressing the keys sequence in the right order
 - If the User input the right sequence, show an alert
 
