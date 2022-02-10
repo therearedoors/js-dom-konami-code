@@ -16,6 +16,21 @@ body {
   animation: spin 5s linear infinite;
 }
 
+.codeflexbox {
+  display: flex;
+  justify-content: space-around;
+  width: 700px
+}
+
+.blacktext {
+  color: black;
+}
+
+span {
+  font-size: larger;
+  font-weight: bold;
+}
+
 @keyframes spin {
   100% {
     transform: rotate(360deg);
